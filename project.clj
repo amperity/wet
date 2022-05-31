@@ -1,4 +1,4 @@
-(defproject amperity/wet "0.2.3-SNAPSHOT"
+(defproject amperity/wet "0.2.4"
   :description "Liquid in Clojure"
   :url "https://github.com/amperity/wet"
   :license {:name "Eclipse Public License"
