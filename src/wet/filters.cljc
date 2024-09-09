@@ -12,8 +12,8 @@
   (some-> v utils/safe-num Math/abs))
 
 (defn append
-  [v & args]
   "Concatenates two strings and returns the concatenated value."
+  [v & args]
   (apply (partial str v) args))
 
 (defn capitalize
