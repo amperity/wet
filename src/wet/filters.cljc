@@ -1,5 +1,5 @@
 (ns wet.filters
-  (:refer-clojure :exclude [first last map remove replace reverse sort])
+  (:refer-clojure :exclude [abs first last map remove replace reverse sort])
   (:require [clojure.string :as str]
             [clojure.walk :as walk]
             [wet.impl.utils :as utils])
