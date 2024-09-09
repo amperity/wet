@@ -8,13 +8,13 @@ built on top of [Instaparse](https://github.com/Engelberg/instaparse).
 #### Leiningen/Boot
 
 ```
-[amperity/wet "0.2.3"]
+[amperity/wet "0.2.5"]
 ```
 
 #### CLI
 
 ```clojure
-{:deps {amperity/wet {:mvn/version "0.2.3"}}}
+{:deps {amperity/wet {:mvn/version "0.2.5"}}}
 ```
 
 ## Usage
